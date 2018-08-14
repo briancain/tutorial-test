@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":false,"name":"Shop","order":7,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":true,"name":"Dungeon Lv 1","order":2,"parentId":1,"scrollX":1093,"scrollY":1292.5},
 {"id":8,"expanded":false,"name":"Dungeon Lv 2","order":3,"parentId":7,"scrollX":819,"scrollY":481.5},
-{"id":9,"expanded":true,"name":"DEMON CASTLE Lv 1","order":9,"parentId":0,"scrollX":1300,"scrollY":746.5},
-{"id":10,"expanded":false,"name":"DEMON CASTLE LV 2","order":10,"parentId":9,"scrollX":811,"scrollY":473.5},
-{"id":11,"expanded":false,"name":"DEMON CASTLE LV 3","order":11,"parentId":9,"scrollX":811,"scrollY":612.5}
+{"id":9,"expanded":true,"name":"DEMON CASTLE Lv 1","order":9,"parentId":0,"scrollX":1001,"scrollY":807.5},
+{"id":10,"expanded":false,"name":"DEMON CASTLE LV 2","order":10,"parentId":9,"scrollX":2058,"scrollY":1370.5},
+{"id":11,"expanded":false,"name":"DEMON CASTLE LV 3","order":11,"parentId":9,"scrollX":811,"scrollY":603.5}
 ]
